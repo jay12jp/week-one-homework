@@ -1,0 +1,23 @@
+* {
+  ont-family: sans-serif;
+}
+.main-tile{
+}
+.main-tile p{
+  margin : 0px;
+}
+.main-tile .main-heading {
+font-size: 36px;
+font-family: sans-serif;
+border-radius: 2px;
+color: rgba(83, 97,112,1);
+text-transform: uppercase;
+}
+.main-tile .main-description {
+  font-size: 32px;
+  color: rgba(83, 97,112,0.5);
+  line-height: 2;
+  margin: 0px;
+  text-transform: uppercase;
+
+}
